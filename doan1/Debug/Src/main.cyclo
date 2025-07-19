@@ -1,0 +1,16 @@
+../Src/main.c:91:6:delay	2
+../Src/main.c:95:10:RCC_GetPCKLValue	4
+../Src/main.c:120:6:I2C_PeripheralControl	2
+../Src/main.c:128:6:I2C_ClearADDRFlag	1
+../Src/main.c:134:9:I2C_GetFlagStatus	2
+../Src/main.c:142:6:I2C_ExecuteAddressPhaseRead	1
+../Src/main.c:148:6:I2C_ExecuteAddressPhaseWrite	1
+../Src/main.c:154:6:I2C_GenerateStartCondition	1
+../Src/main.c:158:6:I2C_GenerateStoptCondition	1
+../Src/main.c:162:6:I2C_ManageAcking	2
+../Src/main.c:170:6:Init	1
+../Src/main.c:206:6:GPIO_FanOn	1
+../Src/main.c:210:6:GPIO_FanOff	1
+../Src/main.c:214:6:I2C_MasterSendData	7
+../Src/main.c:242:6:I2C_MasterReceiveData	9
+../Src/main.c:289:5:main	6
